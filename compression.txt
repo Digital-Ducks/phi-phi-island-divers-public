@@ -1,0 +1,7 @@
+cwebp -q 80 -z 9 -m 6 -noalpha homepage-1024x800.jpg -o homepage-1024x800.jpg.webp
+
+
+cwebp -q 80 -z 9 -m 6 -noalpha divider-1-2896x1944.jpg -o divider-1-2896x1944.jpg.webp
+cwebp -q 80 -z 9 -m 6 -noalpha divider-1-1400x750.jpg -o divider-1-1400x750.jpg.webp
+cwebp -q 80 -z 9 -m 6 -noalpha divider-1-1240x750.jpg -o divider-1-1240x750.jpg.webp
+cwebp -q 80 -z 9 -m 6 -noalpha divider-1-640x750.jpg -o divider-1-640x750.jpg.webp
