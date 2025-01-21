@@ -1,17 +1,23 @@
 cwebp -q 80 -z 9 -m 6 -noalpha homepage-1024x800.jpg -o homepage-1024x800.jpg.webp
 
 
-cwebp -q 80 -z 9 -m 6 -noalpha divider-1-2896x1944.jpg -o divider-1-2896x1944.jpg.webp
-cwebp -q 80 -z 9 -m 6 -noalpha divider-1-1400x750.jpg -o divider-1-1400x750.jpg.webp
-cwebp -q 80 -z 9 -m 6 -noalpha divider-1-1240x750.jpg -o divider-1-1240x750.jpg.webp
-cwebp -q 80 -z 9 -m 6 -noalpha divider-1-640x750.jpg -o divider-1-640x750.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-2896x1944.jpg -o divider-1-2896x1944.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-1400x750.jpg -o divider-1-1400x750.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-1240x750.jpg -o divider-1-1240x750.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-640x750.jpg -o divider-1-640x750.jpg.webp
 
 
 
 cwebp -q 80 -z 9 -m 6 -noalpha homepage-1024x800.jpg -o homepage-640x1024.jpg.webp
 
 
-cwebp -q 90 -z 9 -m 6 -noalpha divider-1-7830x3648.jpg -o divider-1-7830x3648.jpg.webp
-cwebp -q 90 -z 9 -m 6 -noalpha divider-1-640x652.jpg -o divider-1-640x652.jpg.webp
-cwebp -q 90 -z 9 -m 6 -noalpha divider-1-1024x652.jpg -o divider-1-1024x652.jpg.webp
-cwebp -q 90 -z 9 -m 6 -noalpha divider-1-1400x652.jpg -o divider-1-1400x652.jpg.webp
+divider-2-6000x4000.jpg
+divider-2-1400x933.jpg
+divider-2-1024x933.jpg
+divider-2-640x933.jpg
+
+
+cwebp -q 90 -z 9 -m 6 -noalpha divider-2-6000x4000.jpg -o divider-2-6000x4000.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-2-1400x933.jpg -o divider-2-1400x933.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-2-1024x933.jpg -o divider-2-1024x933.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-2-640x933.jpg -o divider-2-640x933.jpg.webp
