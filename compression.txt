@@ -9,3 +9,9 @@ cwebp -q 80 -z 9 -m 6 -noalpha divider-1-640x750.jpg -o divider-1-640x750.jpg.we
 
 
 cwebp -q 80 -z 9 -m 6 -noalpha homepage-1024x800.jpg -o homepage-640x1024.jpg.webp
+
+
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-7830x3648.jpg -o divider-1-7830x3648.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-640x652.jpg -o divider-1-640x652.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-1024x652.jpg -o divider-1-1024x652.jpg.webp
+cwebp -q 90 -z 9 -m 6 -noalpha divider-1-1400x652.jpg -o divider-1-1400x652.jpg.webp
